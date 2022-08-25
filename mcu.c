@@ -9,7 +9,7 @@
 
 #include <msp430g2553.h>
 #include <stdint.h>
-#include "mcu.h"
+#include "Include/mcu.h"
 
 void mcu_init()
 {

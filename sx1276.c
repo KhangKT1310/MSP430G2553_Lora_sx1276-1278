@@ -10,12 +10,12 @@
 #include <math.h>
 #include <msp430G2553.h>
 #include <string.h>
-#include "sx1276.h"
-#include "sx1276regs-fsk.h"
-#include "sx1276regs-lora.h"
-#include "mcu.h"
-#include "spi.h"
-#include "uart.h"
+#include "Include/sx1276.h"
+#include "Include/sx1276regs-fsk.h"
+#include "Include/sx1276regs-lora.h"
+#include "Include/mcu.h"
+#include "Include/spi.h"
+#include "Include/uart.h"
 #include "stdint.h"
 #define Dio0 BIT2
 #define RESET BIT4 // P1.4 RST LORA

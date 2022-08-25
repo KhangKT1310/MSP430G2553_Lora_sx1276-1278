@@ -9,11 +9,11 @@
 
 #include <msp430g2553.h>
 #include <stdint.h>
-#include "mcu.h"
-#include "uart.h"
-#include "spi.h"
-#include "sx1276.h"
-#include "sx1276regs-fsk.h"
+#include "Include/mcu.h"
+#include "Include/uart.h"
+#include "Include/spi.h"
+#include "Include/sx1276.h"
+#include "Include/sx1276regs-fsk.h"
 #include "String.h"
 
 #define RF_FREQUENCY 434000000 // Hz

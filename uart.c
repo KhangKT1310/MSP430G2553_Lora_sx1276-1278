@@ -8,8 +8,8 @@
  */
 
 #include <msp430g2553.h>
-#include "uart.h"
-#include "mcu.h"
+#include "Include/uart.h"
+#include "Include/mcu.h"
 
 void uart_init()
 {

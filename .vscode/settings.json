@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mcu.h": "c",
+        "spi.h": "c",
+        "sx1276.h": "c",
+        "sx1276regs-fsk.h": "c",
+        "sx1276regs-lora.h": "c",
+        "uart.h": "c"
+    }
+}

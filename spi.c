@@ -10,7 +10,7 @@
 
 #include <msp430g2553.h>
 #include <stdint.h>
-#include "spi.h"
+#include "Include/spi.h"
 
 volatile uint8_t spi_buf = 0;
 

@@ -2,7 +2,7 @@
 #                                                                              #
 #      IAR Universal Linker V6.5.1.95                                          #
 #                                                                              #
-#           Link time     =  25/Aug/2022  23:21:19                             #
+#           Link time     =  25/Aug/2022  23:43:05                             #
 #           Target CPU    =  MSP430                                            #
 #           List file     =  D:\work\Lora_msp430\lora_msp430\lora_msp430\Debug #
 #                            \List\lora_tx.map                                 #
@@ -12,7 +12,7 @@
 #                            UBROF version 10.0.6                              #
 #                            Using library modules for C-SPY (-rt)             #
 #           Command line  =  -f                                                #
-#                            C:\Users\PC_Khang\AppData\Local\Temp\EW28DF.tmp   #
+#                            C:\Users\PC_Khang\AppData\Local\Temp\EW12F6.tmp   #
 #                            (D:\work\Lora_msp430\lora_msp430\lora_msp430\Debu #
 #                            g\Obj\main.r43                                    #
 #                            D:\work\Lora_msp430\lora_msp430\lora_msp430\Debug #
